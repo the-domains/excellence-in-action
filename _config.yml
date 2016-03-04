@@ -2,6 +2,7 @@ name: 'Excellence In Action!'
 favicon: null
 layout_spectrum: 0.8457184282597154
 typography_spectrum: 0.8870206463616341
+title: 'Excellence in Action!'
 cta:
   domain: null
   bucket: null
