@@ -1,0 +1,28 @@
+name: 'Excellence In Action!'
+favicon: null
+layout_spectrum: 0.8457184282597154
+typography_spectrum: 0.8870206463616341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5451755146495998
+  lightness: 0.06592839513905346
+  saturation: 0.6710572901647538
+  rhythmicContrast: 0.1337689608335495
+purpose: []
