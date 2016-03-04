@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:00:02.523Z'
-dateModified: '2016-03-04T01:00:02.099Z'
+datePublished: '2016-03-04T01:07:18.976Z'
+dateModified: '2016-03-04T01:07:13.229Z'
 title: 'Excellence in Action in Moving on Up!'
 author: []
 sourcePath: _posts/2016-03-04-excellence-in-action-in-moving-on-up.md
